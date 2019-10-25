@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{E305E6DE-4541-DAF4-355B-CB07B75A40A1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/menuManager.cs">
+    <Files>
+      <File FileName="Assets/scripts/menuManager.cs" Line="24" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MayoStethoscope" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="menuManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="327ac938-5c1b-4314-9668-a1f4a3c6fac1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
